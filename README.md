@@ -23,7 +23,7 @@ clarifying.
 
 ## Next session
 
-2018.08.31 at 4pm: [Intelligent Code Reviews Using Deep Learning](https://drive.google.com/open?id=1n8N80S4IIsQBo7SLqsEyflaGjK6XN2Gm) by Anshul Gupta and Neel Sundaresan.
+2018.08.31 at 4pm CET: [Intelligent Code Reviews Using Deep Learning](https://drive.google.com/open?id=1n8N80S4IIsQBo7SLqsEyflaGjK6XN2Gm) by Anshul Gupta and Neel Sundaresan.
 
 
 ## Past papers
@@ -32,7 +32,7 @@ All the past papers we studied are available in the [reading club's GDrive][GDri
 
 ## When
 
-Every 2 weeks on Fridays at 4pm
+Every 2 weeks on Fridays at 4pm CET
 
 
 ## Where
