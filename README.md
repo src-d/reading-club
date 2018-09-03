@@ -23,10 +23,11 @@ clarifying.
 
 ## Next session
 
-2018.08.31 at 4pm CET: [Intelligent Code Reviews Using Deep Learning](https://drive.google.com/open?id=1n8N80S4IIsQBo7SLqsEyflaGjK6XN2Gm) by Anshul Gupta and Neel Sundaresan.
-
+2018.09.14 at 4pm CET: [candidates](https://github.com/src-d/reading-club/issues/1), TBD by 2018.09.07
 
 ## Past papers
+
+2018.08.31 at 4pm CET: [Intelligent Code Reviews Using Deep Learning](https://drive.google.com/open?id=1n8N80S4IIsQBo7SLqsEyflaGjK6XN2Gm) by Anshul Gupta and Neel Sundaresan. ([notes](https://docs.google.com/document/d/1MbCN7qxRF-keT8evb9X6LL7DToM52tDEQgh1UdUyqkY/edit))
 
 All the past papers we studied are available in the [reading club's GDrive][GDrive].
 
