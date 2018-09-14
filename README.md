@@ -27,7 +27,7 @@ clarifying.
 Graphs](https://drive.google.com/file/d/1Jap8MNLn538yAglTRtN7W4R6wT5z1h6O/view) by Miltiadis
 Allamanis, Marc Brockschmidt and Mahmoud Khademi. Note your questions
 [here](https://docs.google.com/document/d/1DGBgoPsEYt1-XVP4DcxMcv21NNuej_jlX2F4f4zdlh0/edit) or
-directly comment the paper on Drive!
+directly comment the paper on Drive! The zoom ID of the meeting will be 904-769-991.
 
 ## Past papers
 
@@ -45,7 +45,7 @@ Every 2 weeks on Fridays at 4pm CET
 
 ## Where
 
-- on-line https://appear.in/sourced-reading-club
+- on-line on [zoom](https://zoom.us/)
 - in source{d} office in Madrid
 
 
