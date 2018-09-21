@@ -23,18 +23,19 @@ clarifying.
 
 ## Next session
 
-2018.09.14 at 4pm CET: [Learning to Represent Programs with
-Graphs](https://drive.google.com/file/d/1Jap8MNLn538yAglTRtN7W4R6wT5z1h6O/view) by Miltiadis
-Allamanis, Marc Brockschmidt and Mahmoud Khademi. Note your questions
-[here](https://docs.google.com/document/d/1DGBgoPsEYt1-XVP4DcxMcv21NNuej_jlX2F4f4zdlh0/edit) or
-directly comment the paper on Drive! The zoom ID of the meeting will be 904-769-991.
+__2018.09.28__ at 4pm CET, paper TBD in [src-d/reading-club#3](https://github.com/src-d/reading-club/issues/3)
 
 ## Past papers
 
-2018.08.31 at 4pm CET: [Intelligent Code Reviews Using Deep
-Learning](https://drive.google.com/open?id=1n8N80S4IIsQBo7SLqsEyflaGjK6XN2Gm) by Anshul Gupta and
-Neel Sundaresan.
-([notes](https://docs.google.com/document/d/1MbCN7qxRF-keT8evb9X6LL7DToM52tDEQgh1UdUyqkY/edit))
+ - __2018.08.31__: [Intelligent Code Reviews Using Deep
+   Learning](https://drive.google.com/open?id=1n8N80S4IIsQBo7SLqsEyflaGjK6XN2Gm) by Anshul Gupta
+   and Neel Sundaresan.
+   ([notes](https://docs.google.com/document/d/1MbCN7qxRF-keT8evb9X6LL7DToM52tDEQgh1UdUyqkY/edit))
+
+- __2018.09.14__: [Learning to Represent Programs with
+  Graphs](https://drive.google.com/file/d/1Jap8MNLn538yAglTRtN7W4R6wT5z1h6O/view) by Miltiadis
+  Allamanis, Marc Brockschmidt and Mahmoud Khademi.
+  ([notes](https://docs.google.com/document/d/1DGBgoPsEYt1-XVP4DcxMcv21NNuej_jlX2F4f4zdlh0/edit))
 
 All the past papers we studied are available in the [reading club's GDrive][GDrive].
 
@@ -45,7 +46,7 @@ Every 2 weeks on Fridays at 4pm CET
 
 ## Where
 
-- on-line on [zoom](https://zoom.us/)
+- on-line on [zoom](https://zoom.us/), ID of the meeting is `974-346-848`.
 - in source{d} office in Madrid
 
 
