@@ -23,7 +23,8 @@ clarifying.
 
 ## Next session
 
-__2018.09.28__ at 4pm CET, paper TBD in [src-d/reading-club#3](https://github.com/src-d/reading-club/issues/3)
+__2018.09.28__ at 4pm CET, paper [code2seq: Generating Sequences from
+Structured Representations of Code](https://arxiv.org/pdf/1808.01400.pdf)
 
 ## Past papers
 
