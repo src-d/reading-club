@@ -23,8 +23,10 @@ clarifying.
 
 ## Next session
 
-__2018.09.28__ at 4pm CET, paper [code2seq: Generating Sequences from
-Structured Representations of Code](https://arxiv.org/pdf/1808.01400.pdf)
+__2018.09.28__ at 4pm CET, paper [code2seq: Generating Sequences from Structured Representations of
+Code](https://drive.google.com/open?id=15Gm3Luz6EafAhhc6P2WIaLclrgkmB7yo). Don't hesitate to
+annotate the paper with any remark or question and to write your more general questions on the
+[questions GDoc](https://drive.google.com/open?id=1Qzc4Wy94dF-C1LF0TcBWOoxKJiq0meCtFp26VASSoy4)!
 
 ## Past papers
 
