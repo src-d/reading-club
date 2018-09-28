@@ -29,15 +29,16 @@ __2018.10.12__ at 4pm CET, paper TBD in [src-d/reading-club#7](https://github.co
  - __2018.09.28__ at 4pm CET, paper [code2seq: Generating Sequences from Structured Representations of Code](https://drive.google.com/open?id=15Gm3Luz6EafAhhc6P2WIaLclrgkmB7yo) by Uri Alon, Eran Yahav and Omer Levy.
 ([notes](https://drive.google.com/open?id=1Qzc4Wy94dF-C1LF0TcBWOoxKJiq0meCtFp26VASSoy4))
 
- - __2018.08.31__: [Intelligent Code Reviews Using Deep
-   Learning](https://drive.google.com/open?id=1n8N80S4IIsQBo7SLqsEyflaGjK6XN2Gm) by Anshul Gupta
-   and Neel Sundaresan.
-   ([notes](https://docs.google.com/document/d/1MbCN7qxRF-keT8evb9X6LL7DToM52tDEQgh1UdUyqkY/edit))
-
 - __2018.09.14__: [Learning to Represent Programs with
   Graphs](https://drive.google.com/file/d/1Jap8MNLn538yAglTRtN7W4R6wT5z1h6O/view) by Miltiadis
   Allamanis, Marc Brockschmidt and Mahmoud Khademi.
   ([notes](https://docs.google.com/document/d/1DGBgoPsEYt1-XVP4DcxMcv21NNuej_jlX2F4f4zdlh0/edit))
+  
+- __2018.08.31__: [Intelligent Code Reviews Using Deep
+   Learning](https://drive.google.com/open?id=1n8N80S4IIsQBo7SLqsEyflaGjK6XN2Gm) by Anshul Gupta
+   and Neel Sundaresan.
+   ([notes](https://docs.google.com/document/d/1MbCN7qxRF-keT8evb9X6LL7DToM52tDEQgh1UdUyqkY/edit))
+
 
 All the past papers we studied are available in the [reading club's GDrive][GDrive].
 
