@@ -22,13 +22,12 @@ clarifying.
 
 
 ## Next session
-
-__2018.09.28__ at 4pm CET, paper [code2seq: Generating Sequences from Structured Representations of
-Code](https://drive.google.com/open?id=15Gm3Luz6EafAhhc6P2WIaLclrgkmB7yo). Don't hesitate to
-annotate the paper with any remark or question and to write your more general questions on the
-[questions GDoc](https://drive.google.com/open?id=1Qzc4Wy94dF-C1LF0TcBWOoxKJiq0meCtFp26VASSoy4)!
+__2018.10.12__ at 4pm CET, paper TBD in [src-d/reading-club#7](https://github.com/src-d/reading-club/issues/7)
 
 ## Past papers
+
+ - __2018.09.28__ at 4pm CET, paper [code2seq: Generating Sequences from Structured Representations of Code](https://drive.google.com/open?id=15Gm3Luz6EafAhhc6P2WIaLclrgkmB7yo) by Uri Alon, Eran Yahav and Omer Levy.
+([notes](https://drive.google.com/open?id=1Qzc4Wy94dF-C1LF0TcBWOoxKJiq0meCtFp26VASSoy4))
 
  - __2018.08.31__: [Intelligent Code Reviews Using Deep
    Learning](https://drive.google.com/open?id=1n8N80S4IIsQBo7SLqsEyflaGjK6XN2Gm) by Anshul Gupta
