@@ -21,8 +21,10 @@ Anyone can comment on a paper's PDF on [GDrive][GDrive] with questions or things
 clarifying.
 
 
-## Next session
-__2018.10.12__ at 4pm CET, paper TBD in [src-d/reading-club#7](https://github.com/src-d/reading-club/issues/7)
+## Next sessions
+- __Extra session on 2018.10.5__ at 4pm CET, we'll study [Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces](https://drive.google.com/open?id=1NyGQXxF2Ctq21wYcMjFWGyW0mwmDrXkD). This time we will be joined by *Jordan Henkel*, one of the authors of the paper! Please write any questions you might have in [this GDoc](https://docs.google.com/document/d/1TjiRzSivxXDDl79Fq4Bs7Ax3Zz7hciRGPKxKrUHFd6I/edit).
+
+- __Regular session on 2018.10.12__ at 4pm CET, paper TBD in [src-d/reading-club#7](https://github.com/src-d/reading-club/issues/7).
 
 ## Past papers
 
@@ -33,7 +35,7 @@ __2018.10.12__ at 4pm CET, paper TBD in [src-d/reading-club#7](https://github.co
   Graphs](https://drive.google.com/file/d/1Jap8MNLn538yAglTRtN7W4R6wT5z1h6O/view) by Miltiadis
   Allamanis, Marc Brockschmidt and Mahmoud Khademi.
   ([notes](https://docs.google.com/document/d/1DGBgoPsEYt1-XVP4DcxMcv21NNuej_jlX2F4f4zdlh0/edit))
-  
+
 - __2018.08.31__: [Intelligent Code Reviews Using Deep
    Learning](https://drive.google.com/open?id=1n8N80S4IIsQBo7SLqsEyflaGjK6XN2Gm) by Anshul Gupta
    and Neel Sundaresan.
