@@ -22,13 +22,13 @@ clarifying.
 
 
 ## Next sessions
-- __Extra session on 2018.10.5__ at 4pm CET, we'll study [Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces](https://drive.google.com/open?id=1NyGQXxF2Ctq21wYcMjFWGyW0mwmDrXkD). This time we will be joined by *Jordan Henkel*, one of the authors of the paper! Please write any questions you might have in [this GDoc](https://docs.google.com/document/d/1TjiRzSivxXDDl79Fq4Bs7Ax3Zz7hciRGPKxKrUHFd6I/edit).
-
-- __Regular session on 2018.10.12__ at 4pm CET, paper TBD in [src-d/reading-club#7](https://github.com/src-d/reading-club/issues/7).
+- __2018.10.12__ at 4pm CET, paper TBD in [src-d/reading-club#7](https://github.com/src-d/reading-club/issues/7).
 
 ## Past papers
 
- - __2018.09.28__ at 4pm CET, paper [code2seq: Generating Sequences from Structured Representations of Code](https://drive.google.com/open?id=15Gm3Luz6EafAhhc6P2WIaLclrgkmB7yo) by Uri Alon, Eran Yahav and Omer Levy.
+- __2018.10.5__: extra session, [Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces](https://drive.google.com/open?id=1NyGQXxF2Ctq21wYcMjFWGyW0mwmDrXkD). This time *Jordan Henkel* joined, one of the authors of the paper! ([notes](https://docs.google.com/document/d/1TjiRzSivxXDDl79Fq4Bs7Ax3Zz7hciRGPKxKrUHFd6I/edit), [slides](https://docs.google.com/presentation/d/14nGDrAHMIYTb2Ca3X3YmxZsgNdbI1NAkERINaTt-Fgg/edit?usp=sharing))
+
+- __2018.09.28__: [code2seq: Generating Sequences from Structured Representations of Code](https://drive.google.com/open?id=15Gm3Luz6EafAhhc6P2WIaLclrgkmB7yo) by Uri Alon, Eran Yahav and Omer Levy.
 ([notes](https://drive.google.com/open?id=1Qzc4Wy94dF-C1LF0TcBWOoxKJiq0meCtFp26VASSoy4))
 
 - __2018.09.14__: [Learning to Represent Programs with
