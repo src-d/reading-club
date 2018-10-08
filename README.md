@@ -22,7 +22,9 @@ clarifying.
 
 
 ## Next sessions
-- __2018.10.12__ at 4pm CET, paper TBD in [src-d/reading-club#7](https://github.com/src-d/reading-club/issues/7).
+- __2018.10.12__ at 4pm CET, paper [Relational inductive biases, deep learning, and graph networks](https://drive.google.com/file/d/1gAOdA8S2E9YbOP3AEaYkK3hFTB5cVBAw/view). Don't hesitate to
+annotate the paper with any remark or question and to write your more general questions on the
+[questions GDoc](https://docs.google.com/document/d/1uHNoaL2U00TXfgAWoEOgUzNP8vCW34P1psL01Hc1nNU/edit)!
 
 ## Past papers
 
