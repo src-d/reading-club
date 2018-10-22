@@ -22,11 +22,12 @@ clarifying.
 
 
 ## Next sessions
-- __2018.10.19__ at 4pm CET, paper [Relational inductive biases, deep learning, and graph networks](https://drive.google.com/file/d/1gAOdA8S2E9YbOP3AEaYkK3hFTB5cVBAw/view). Don't hesitate to
-annotate the paper with any remark or question and to write your more general questions on the
-[questions GDoc](https://docs.google.com/document/d/1uHNoaL2U00TXfgAWoEOgUzNP8vCW34P1psL01Hc1nNU/edit)!
+__2018.11.02__ at 4pm CET, paper TBD in [src-d/reading-club#11](https://github.com/src-d/reading-club/issues/11). (announced by Fri 26.10)
 
 ## Past papers
+
+- __2018.10.19__ [Relational inductive biases, deep learning, and graph networks](https://drive.google.com/file/d/1gAOdA8S2E9YbOP3AEaYkK3hFTB5cVBAw/view).
+([notes](https://docs.google.com/document/d/1uHNoaL2U00TXfgAWoEOgUzNP8vCW34P1psL01Hc1nNU/edit))
 
 - __2018.10.5__: extra session, [Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces](https://drive.google.com/open?id=1NyGQXxF2Ctq21wYcMjFWGyW0mwmDrXkD). This time *Jordan Henkel* joined, one of the authors of the paper! ([notes](https://docs.google.com/document/d/1TjiRzSivxXDDl79Fq4Bs7Ax3Zz7hciRGPKxKrUHFd6I/edit), [slides](https://docs.google.com/presentation/d/14nGDrAHMIYTb2Ca3X3YmxZsgNdbI1NAkERINaTt-Fgg/edit?usp=sharing))
 
