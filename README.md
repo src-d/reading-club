@@ -22,7 +22,7 @@ clarifying.
 
 
 ## Next sessions
-__2018.11.02__ at 4pm CET, paper TBD in [src-d/reading-club#11](https://github.com/src-d/reading-club/issues/11). (announced by Fri 26.10)
+__2018.11.02__ at 4pm CET, [Learning to Represent Edits](https://drive.google.com/drive/folders/1cAzkDW_sXb49gRZvvhVvXu3Wi_84lQdn) (under review as a conference paper at ICLR 2019). [This notes Google Document](https://drive.google.com/open?id=19ihAlkuj5I9k1OIAxUDLVOxMtfqPIN2UDYy_NSjcrvU) will be used to list questions and organize the session.
 
 ## Past papers
 
