@@ -22,9 +22,12 @@ clarifying.
 
 
 ## Next sessions
-__2018.11.02__ at 4pm CET, [Learning to Represent Edits](https://drive.google.com/drive/folders/1cAzkDW_sXb49gRZvvhVvXu3Wi_84lQdn) (under review as a conference paper at ICLR 2019). [This notes Google Document](https://drive.google.com/open?id=19ihAlkuj5I9k1OIAxUDLVOxMtfqPIN2UDYy_NSjcrvU) will be used to list questions and organize the session.
+
+__2018.11.16__ at __7PM CET (not the usual time)__. __Special edition of the reading club!__ We are lucky to be joined by Earl T. Barr to talk about [Deep Learning Type Inference](https://drive.google.com/file/d/1NApPrysETl6cGN_SyrNB8w9cbFvxmQwc/view) during a [meetup](https://www.meetup.com/MLonCode-Madrid/events/256144491/) we'll host in our [Madrid office](https://www.google.com/maps/place/Calle+de+Claudio+Coello,+16,+28001+Madrid,+Spain/@40.4222395,-3.6890921,17z/data=!3m1!4b1!4m5!3m4!1s0xd4228999321af81:0x4ed6b977580e0990!8m2!3d40.4222395!4d-3.6869034?shorturl=1) in addition to the usual online reading club. A [Google Document](https://docs.google.com/document/d/16llV5O6G8IWkFeBddaVerXOYOrhU8eVoNZy-HI9tUnw/edit) is available to write down any question that you have about the paper: we'll go through all of them during the session.
 
 ## Past papers
+
+- __2018.11.02__ [Learning to Represent Edits](https://drive.google.com/drive/folders/1cAzkDW_sXb49gRZvvhVvXu3Wi_84lQdn). ([notes](https://drive.google.com/open?id=19ihAlkuj5I9k1OIAxUDLVOxMtfqPIN2UDYy_NSjcrvU))
 
 - __2018.10.19__ [Relational inductive biases, deep learning, and graph networks](https://drive.google.com/file/d/1gAOdA8S2E9YbOP3AEaYkK3hFTB5cVBAw/view).
 ([notes](https://docs.google.com/document/d/1uHNoaL2U00TXfgAWoEOgUzNP8vCW34P1psL01Hc1nNU/edit))
