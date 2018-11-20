@@ -23,19 +23,34 @@ clarifying.
 
 ## Next sessions
 
-__2018.11.16__ at __7PM CET (not the usual time)__. __Special edition of the reading club!__ We are lucky to be joined by Earl T. Barr to talk about [Deep Learning Type Inference](https://drive.google.com/file/d/1NApPrysETl6cGN_SyrNB8w9cbFvxmQwc/view) during a [meetup](https://www.meetup.com/MLonCode-Madrid/events/256144491/) we'll host in our [Madrid office](https://www.google.com/maps/place/Calle+de+Claudio+Coello,+16,+28001+Madrid,+Spain/@40.4222395,-3.6890921,17z/data=!3m1!4b1!4m5!3m4!1s0xd4228999321af81:0x4ed6b977580e0990!8m2!3d40.4222395!4d-3.6869034?shorturl=1) in addition to the usual online reading club. A [Google Document](https://docs.google.com/document/d/16llV5O6G8IWkFeBddaVerXOYOrhU8eVoNZy-HI9tUnw/edit) is available to write down any question that you have about the paper: we'll go through all of them during the session.
+- __2018.11.30__ at __4PM CET__. TBD.
 
 ## Past papers
 
-- __2018.11.02__ [Learning to Represent Edits](https://drive.google.com/drive/folders/1cAzkDW_sXb49gRZvvhVvXu3Wi_84lQdn). ([notes](https://drive.google.com/open?id=19ihAlkuj5I9k1OIAxUDLVOxMtfqPIN2UDYy_NSjcrvU))
+- __2018.11.16__ [Deep Learning Type
+  Inference](https://drive.google.com/file/d/1NApPrysETl6cGN_SyrNB8w9cbFvxmQwc/view). This time
+  *Earl T. Barr* joined, one of the authors of the paper!
+  ([notes](https://docs.google.com/document/d/16llV5O6G8IWkFeBddaVerXOYOrhU8eVoNZy-HI9tUnw/edit),
+  [meetup](https://www.meetup.com/MLonCode-Madrid/events/256144491/))
 
-- __2018.10.19__ [Relational inductive biases, deep learning, and graph networks](https://drive.google.com/file/d/1gAOdA8S2E9YbOP3AEaYkK3hFTB5cVBAw/view).
-([notes](https://docs.google.com/document/d/1uHNoaL2U00TXfgAWoEOgUzNP8vCW34P1psL01Hc1nNU/edit))
+- __2018.11.02__ [Learning to Represent
+  Edits](https://drive.google.com/drive/folders/1cAzkDW_sXb49gRZvvhVvXu3Wi_84lQdn).
+  ([notes](https://drive.google.com/open?id=19ihAlkuj5I9k1OIAxUDLVOxMtfqPIN2UDYy_NSjcrvU))
 
-- __2018.10.5__: extra session, [Code Vectors: Understanding Programs Through Embedded Abstracted Symbolic Traces](https://drive.google.com/open?id=1NyGQXxF2Ctq21wYcMjFWGyW0mwmDrXkD). This time *Jordan Henkel* joined, one of the authors of the paper! ([notes](https://docs.google.com/document/d/1TjiRzSivxXDDl79Fq4Bs7Ax3Zz7hciRGPKxKrUHFd6I/edit), [slides](https://docs.google.com/presentation/d/14nGDrAHMIYTb2Ca3X3YmxZsgNdbI1NAkERINaTt-Fgg/edit?usp=sharing))
+- __2018.10.19__ [Relational inductive biases, deep learning, and graph
+  networks](https://drive.google.com/file/d/1gAOdA8S2E9YbOP3AEaYkK3hFTB5cVBAw/view).
+  ([notes](https://docs.google.com/document/d/1uHNoaL2U00TXfgAWoEOgUzNP8vCW34P1psL01Hc1nNU/edit))
 
-- __2018.09.28__: [code2seq: Generating Sequences from Structured Representations of Code](https://drive.google.com/open?id=15Gm3Luz6EafAhhc6P2WIaLclrgkmB7yo) by Uri Alon, Eran Yahav and Omer Levy.
-([notes](https://drive.google.com/open?id=1Qzc4Wy94dF-C1LF0TcBWOoxKJiq0meCtFp26VASSoy4))
+- __2018.10.5__: extra session, [Code Vectors: Understanding Programs Through Embedded Abstracted
+  Symbolic Traces](https://drive.google.com/open?id=1NyGQXxF2Ctq21wYcMjFWGyW0mwmDrXkD). This time
+  *Jordan Henkel* joined, one of the authors of the paper!
+  ([notes](https://docs.google.com/document/d/1TjiRzSivxXDDl79Fq4Bs7Ax3Zz7hciRGPKxKrUHFd6I/edit),
+  [slides](https://docs.google.com/presentation/d/14nGDrAHMIYTb2Ca3X3YmxZsgNdbI1NAkERINaTt-Fgg/edit?usp=sharing))
+
+- __2018.09.28__: [code2seq: Generating Sequences from Structured Representations of
+  Code](https://drive.google.com/open?id=15Gm3Luz6EafAhhc6P2WIaLclrgkmB7yo) by Uri Alon, Eran Yahav
+  and Omer Levy.
+  ([notes](https://drive.google.com/open?id=1Qzc4Wy94dF-C1LF0TcBWOoxKJiq0meCtFp26VASSoy4))
 
 - __2018.09.14__: [Learning to Represent Programs with
   Graphs](https://drive.google.com/file/d/1Jap8MNLn538yAglTRtN7W4R6wT5z1h6O/view) by Miltiadis
@@ -43,9 +58,9 @@ __2018.11.16__ at __7PM CET (not the usual time)__. __Special edition of the rea
   ([notes](https://docs.google.com/document/d/1DGBgoPsEYt1-XVP4DcxMcv21NNuej_jlX2F4f4zdlh0/edit))
 
 - __2018.08.31__: [Intelligent Code Reviews Using Deep
-   Learning](https://drive.google.com/open?id=1n8N80S4IIsQBo7SLqsEyflaGjK6XN2Gm) by Anshul Gupta
-   and Neel Sundaresan.
-   ([notes](https://docs.google.com/document/d/1MbCN7qxRF-keT8evb9X6LL7DToM52tDEQgh1UdUyqkY/edit))
+  Learning](https://drive.google.com/open?id=1n8N80S4IIsQBo7SLqsEyflaGjK6XN2Gm) by Anshul Gupta and
+  Neel Sundaresan.
+  ([notes](https://docs.google.com/document/d/1MbCN7qxRF-keT8evb9X6LL7DToM52tDEQgh1UdUyqkY/edit))
 
 
 All the past papers we studied are available in the [reading club's GDrive][GDrive].
