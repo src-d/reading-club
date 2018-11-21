@@ -23,7 +23,11 @@ clarifying.
 
 ## Next sessions
 
-- __2018.11.30__ at __4PM CET__. TBD.
+- __2018.11.30__ at __4PM CET__. [Mining Change Histories for Unknown Systematic
+  Edits](https://drive.google.com/open?id=1UCX-ayAUB6r8p68vdet4vvVwp9Z_zzpm). Tim Molderez, first
+  author of the paper, will join us for this session! The questions contained [in this public
+  GDoc](https://docs.google.com/document/d/1uX7YEA5x7vnfnxuKsXIsh356Ko1gH1H5O36eEF9glmc/edit) will
+  be asked during the reading club, don't hesitate to ask yours :)
 
 ## Past papers
 
