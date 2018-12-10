@@ -23,13 +23,13 @@ clarifying.
 
 ## Next sessions
 
-- __2018.11.30__ at __4PM CET__. [Mining Change Histories for Unknown Systematic
-  Edits](https://drive.google.com/open?id=1UCX-ayAUB6r8p68vdet4vvVwp9Z_zzpm). Tim Molderez, first
-  author of the paper, will join us for this session! The questions contained [in this public
-  GDoc](https://docs.google.com/document/d/1uX7YEA5x7vnfnxuKsXIsh356Ko1gH1H5O36eEF9glmc/edit) will
-  be asked during the reading club, don't hesitate to ask yours :)
+- __2018.12.14__ at __4PM CET__. We'll study [Improving Automatic Source Code Summarization via Deep Reinforcement Learning](https://drive.google.com/open?id=1f8EbbpK7xJn3lYMGqQH_vpz135M40ndY). A public [GDoc](https://drive.google.com/open?id=1gLpc1j-W5t90xxjqj7BZvW3DZzbDTpkFXLxv03B6Tp8) is available to write down any question you'd like to discuss during the reading club.
 
 ## Past papers
+
+- __2018.11.30__ [Mining Change Histories for Unknown Systematic
+  Edits](https://drive.google.com/open?id=1UCX-ayAUB6r8p68vdet4vvVwp9Z_zzpm). Tim Molderez, first
+  author of the paper, joined us for this session! ([notes](https://docs.google.com/document/d/1uX7YEA5x7vnfnxuKsXIsh356Ko1gH1H5O36eEF9glmc/edit))
 
 - __2018.11.16__ [Deep Learning Type
   Inference](https://drive.google.com/file/d/1NApPrysETl6cGN_SyrNB8w9cbFvxmQwc/view). This time
