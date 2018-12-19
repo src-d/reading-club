@@ -23,9 +23,13 @@ clarifying.
 
 ## Next sessions
 
-- __2018.12.14__ at __4PM CET__. We'll study [Improving Automatic Source Code Summarization via Deep Reinforcement Learning](https://drive.google.com/open?id=1f8EbbpK7xJn3lYMGqQH_vpz135M40ndY). A public [GDoc](https://drive.google.com/open?id=1gLpc1j-W5t90xxjqj7BZvW3DZzbDTpkFXLxv03B6Tp8) is available to write down any question you'd like to discuss during the reading club.
+- __2019.01.11__ at __4PM CET__. Paper TBD in [#25](https://github.com/src-d/reading-club/issues/25).
 
 ## Past papers
+
+- __2018.12.14__ [Improving Automatic Source Code Summarization via Deep Reinforcement
+  Learning](https://drive.google.com/open?id=1f8EbbpK7xJn3lYMGqQH_vpz135M40ndY).
+  ([notes](https://drive.google.com/open?id=1gLpc1j-W5t90xxjqj7BZvW3DZzbDTpkFXLxv03B6Tp8))
 
 - __2018.11.30__ [Mining Change Histories for Unknown Systematic
   Edits](https://drive.google.com/open?id=1UCX-ayAUB6r8p68vdet4vvVwp9Z_zzpm). Tim Molderez, first
