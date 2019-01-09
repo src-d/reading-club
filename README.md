@@ -23,7 +23,7 @@ clarifying.
 
 ## Next sessions
 
-- __2019.01.11__ at __4PM CET__. Paper TBD in [#25](https://github.com/src-d/reading-club/issues/25).
+- __2019.01.11__ at __4PM CET__. [A general reinforcement learning algorithm that masters chess, shogi and Go through self-play](https://drive.google.com/drive/folders/1cAzkDW_sXb49gRZvvhVvXu3Wi_84lQdn). ([questions](https://docs.google.com/document/d/1jDeUUJO7nRWCmyq4JweheKO5mA8KcJ7ueXo2RusiYbE/edit))
 
 ## Past papers
 
