@@ -25,7 +25,7 @@ clarifying.
 
 - __2019.01.25__ at __4PM CET__: [Sorting and Transforming Program Repair Ingredients via Deep
   Learning Code Similarities](https://drive.google.com/open?id=1MTXvBeQl6ITmMd11F6kYUg2mNixmBPFE).
-  Martin Monperrus, co-author of the paper, will be joining us! There is a [public google
+  Martin Monperrus and Matias Martinez, co-authors of the paper, will be joining us! There is a [public google
   doc](https://drive.google.com/open?id=19JibDZBemganPKDw5sINMGY5RY1VaWJTgP9VVksB608) available to
   ask questions and take notes. Anyone is very welcome to use it.
 
