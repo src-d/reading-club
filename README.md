@@ -36,7 +36,7 @@ clarifying.
   ([notes](https://docs.google.com/document/d/1jDeUUJO7nRWCmyq4JweheKO5mA8KcJ7ueXo2RusiYbE/edit))
 
 - __2018.12.14__ [Improving Automatic Source Code Summarization via Deep Reinforcement
-  Learning](https://drive.google.com/file/d/1l7AbjYjlsLlKWO7-c9Fhm_9j1z9nqtLK/view).
+  Learning](https://drive.google.com/open?id=1f8EbbpK7xJn3lYMGqQH_vpz135M40ndY).
   ([notes](https://drive.google.com/open?id=1gLpc1j-W5t90xxjqj7BZvW3DZzbDTpkFXLxv03B6Tp8))
 
 - __2018.11.30__ [Mining Change Histories for Unknown Systematic
