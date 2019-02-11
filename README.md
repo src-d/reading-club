@@ -23,10 +23,12 @@ clarifying.
 
 ## Next sessions
 
-- __2019.02.08__ at __4PM CET__: [Structured Neural Summarization](https://drive.google.com/file/d/1DSQDmtQG4uSXdlvKJbsh41HEiJ5cQxdk/view?usp=sharing) by Patrick Fernandes, Miltiadis Allamanis & Marc Brockschmidt.
-  As usually, there is a [public doc](https://docs.google.com/document/d/17-o6UG5zqvxgFkwLGsXmZO62efcEpRqff53VImpPHTI/edit) available to ask questions and take notes. Anyone is very welcome to use it.
+- __2019.02.22__ at __4PM CET__: TBD in [src-d/reading-club#33](https://github.com/src-d/reading-club/issues/33)
 
 ## Past papers
+
+- __2019.02.08__ at __4PM CET__: [Structured Neural Summarization](https://drive.google.com/file/d/1DSQDmtQG4uSXdlvKJbsh41HEiJ5cQxdk/view?usp=sharing). ([notes](https://docs.google.com/document/d/17-o6UG5zqvxgFkwLGsXmZO62efcEpRqff53VImpPHTI/edit))
+
 
 - __2019.01.25__ at __4PM CET__: [Sorting and Transforming Program Repair Ingredients via Deep
   Learning Code Similarities](https://drive.google.com/open?id=1MTXvBeQl6ITmMd11F6kYUg2mNixmBPFE).
