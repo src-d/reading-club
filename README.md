@@ -23,7 +23,8 @@ clarifying.
 
 ## Next sessions
 
-- __2019.02.22__ at __4PM CET__: TBD in [src-d/reading-club#33](https://github.com/src-d/reading-club/issues/33)
+- __2019.02.22__ at __4PM CET__: [The Adverse Effects of Code Duplication in
+Machine Learning Models of Code](https://drive.google.com/file/d/1nbs0MwISrbQENn083DqCu1wu6UMfVSSU/view?usp=sharing) by Miltiadis Allamanis. As usually, there is a [public doc](https://docs.google.com/document/d/1mqGd1_gT2s8r3bU5GDsQM2nvafdxZnTn6ZkwKdzlZWg/edit?usp=sharing) available to ask questions and take notes. Anyone is very welcome to use it.
 
 ## Past papers
 
