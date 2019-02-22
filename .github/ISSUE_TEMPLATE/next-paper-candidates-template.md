@@ -1,7 +1,7 @@
 ---
 name: Next paper candidates template
 about: Template to use to create the next paper candidates issue.
-title: Next paper candidates: [Date of the session, format: 1 Jan]
+title: "Next paper candidates: [Date of the session, format: 1 Jan]"
 labels: "next paper candidates"
 ---
 
