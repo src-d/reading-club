@@ -102,4 +102,9 @@ Every 2 weeks on Fridays at 4pm CET
 - join the session [online, or in office space](#where)
 
 
+## How to organize
+
+A description of the current organization workflow is maintained in
+[`organization-workflow.md`](organization-workflow.md).
+
 [GDrive]: https://drive.google.com/open?id=1Xck6Ic2amaZsRxNWOCc7WvgheIBL-hcF
