@@ -23,10 +23,11 @@ clarifying.
 
 ## Next sessions
 
-- __2019.02.22__ at __4PM CET__: [The Adverse Effects of Code Duplication in
-Machine Learning Models of Code](https://drive.google.com/file/d/1nbs0MwISrbQENn083DqCu1wu6UMfVSSU/view?usp=sharing) by Miltiadis Allamanis. As usually, there is a [public doc](https://docs.google.com/document/d/1mqGd1_gT2s8r3bU5GDsQM2nvafdxZnTn6ZkwKdzlZWg/edit?usp=sharing) available to ask questions and take notes. Anyone is very welcome to use it.
+- __2019.03.08__ at __4PM CET__: Paper TBD [here](https://github.com/src-d/reading-club/issues/35).
 
 ## Past papers
+
+- __2019.02.22__ [The Adverse Effects of Code Duplication in Machine Learning Models of Code](https://drive.google.com/file/d/1nbs0MwISrbQENn083DqCu1wu6UMfVSSU/view?usp=sharing). ([notes](https://docs.google.com/document/d/1mqGd1_gT2s8r3bU5GDsQM2nvafdxZnTn6ZkwKdzlZWg/edit?usp=sharing))
 
 - __2019.02.08__ [Structured Neural Summarization](https://drive.google.com/file/d/1DSQDmtQG4uSXdlvKJbsh41HEiJ5cQxdk/view?usp=sharing). ([notes](https://docs.google.com/document/d/17-o6UG5zqvxgFkwLGsXmZO62efcEpRqff53VImpPHTI/edit))
 
