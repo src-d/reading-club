@@ -1,6 +1,6 @@
 # Organization workflow
 
-The general workflow to organize a session is as follows:
+The general workflow to organize a reading club session is as follows:
 
 ## 2 weeks before
 
@@ -12,9 +12,9 @@ The general workflow to organize a session is as follows:
 - Archive last session and create the new one.
 
     PR a change to
-    [src-d/reading](https://github.com/src-d/reading-club) club to put
-    the previous session in the [Past papers](README.md#past-papers)
-    section with the template
+    [src-d/reading-club](https://github.com/src-d/reading-club) club
+    to put the previous session in the [Past
+    papers](README.md#past-papers) section with the template
 
         - __YYYY.MM.DD__ [Title of the paper](url of the paper on GDrive). ([notes](Url of the notes on GDrive))
     
@@ -26,24 +26,28 @@ The general workflow to organize a session is as follows:
 
 Create a poll to decide on the next paper.
 
-The poll should be created on the #reading-club community channel. It
+The poll should be created on the [#reading-club community Slack
+channel](https://sourced-community.slack.com/messages/CCLPL1WQH). It
 uses the poll widget:
 
     /poll "What papers would you like to study during next session, on the xxth of xxxxx?" "Title1: url1" "Title2: url2"
 
 ## 5 days before
 
-- Pick the winner (most votes) and announce it in the community slack.
+- Pick the winner (most votes) and announce it on [community slack
+  #reading-club
+  channel](https://sourced-community.slack.com/messages/CCLPL1WQH).
 
-- Add the PDF to the [GDrive
+- Add the PDF of the paper to the [GDrive
   directory](https://drive.google.com/drive/u/1/folders/1cAzkDW_sXb49gRZvvhVvXu3Wi_84lQdn).
 
-- Create the notes document.
+- Create a new notes document in the [`Notes` dir on
+  GDrive](https://drive.google.com/drive/folders/1IQ7-wOea32lDkd69-NcLw5xYB74oH6rJ).
 
     When we have time we link the authors to their respective
     homepages and include relevant links (code, data, etc).
 
-- PR a change to the next session in the
+- PR a change with the next session to this repository's
   [readme](README.md#next-sessions).
 
     We use the following template:
@@ -60,6 +64,8 @@ Announce the session on the community slack again.
 
 ## Ten minutes before
 
-- Launch the zoom meeting.
+- Launch the [zoom
+  meeting](https://github.com/src-d/reading-club#where).
 
-- Announce the session on the community slack again with the Zoom ID.
+- Announce the session on the community slack again with the Zoom
+  meeting ID.
