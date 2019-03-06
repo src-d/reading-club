@@ -23,7 +23,7 @@ clarifying.
 
 ## Next sessions
 
-- __2019.03.08__ at __4PM CET__: Paper TBD [here](https://github.com/src-d/reading-club/issues/35).
+- __2019.03.08__ at __4PM CET__: [Generative Code Modeling with Graphs](https://drive.google.com/open?id=1SMUy5BEU7v8TltaJI8QoPY69G88I5RzA). We take notes in a [public GDoc](https://docs.google.com/document/d/1EAERXE2pHhBSj8CgPUQv4p9Luupk1iU17QpehSLiV4I/edit), you are very welcome to ask questions or give thoughts in it!
 
 ## Past papers
 
