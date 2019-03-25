@@ -22,10 +22,12 @@ clarifying.
 
 
 ## Next sessions
-
-- __2019.03.22__ at __4PM CET__: [Generative Code Modeling with Graphs](https://drive.google.com/open?id=1SMUy5BEU7v8TltaJI8QoPY69G88I5RzA). We take notes in a [public GDoc](https://docs.google.com/document/d/1EAERXE2pHhBSj8CgPUQv4p9Luupk1iU17QpehSLiV4I/edit), you are very welcome to ask questions or give thoughts in it!
+- __2019.04.05__ at __16:00 CET__: TBD in [src-d/reading-club#44](https://github.com/src-d/reading-club/issues/44), please feel free to submit a suggestion!
 
 ## Past papers
+
+- __2019.03.22__ at __4PM CET__: [Generative Code Modeling with Graphs](https://drive.google.com/open?id=1SMUy5BEU7v8TltaJI8QoPY69G88I5RzA), [notes](https://docs.google.com/document/d/1EAERXE2pHhBSj8CgPUQv4p9Luupk1iU17QpehSLiV4I/edit).
+
 
 - __2019.02.22__ [The Adverse Effects of Code Duplication in Machine Learning Models of Code](https://drive.google.com/file/d/1nbs0MwISrbQENn083DqCu1wu6UMfVSSU/view?usp=sharing). ([notes](https://docs.google.com/document/d/1mqGd1_gT2s8r3bU5GDsQM2nvafdxZnTn6ZkwKdzlZWg/edit?usp=sharing))
 
