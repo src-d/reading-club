@@ -22,7 +22,7 @@ clarifying.
 
 
 ## Next sessions
-- __2019.04.05__ at __16:00 CET__: TBD in [src-d/reading-club#44](https://github.com/src-d/reading-club/issues/44), please feel free to submit a suggestion!
+- __2019.04.05__ at __16:00 CET__: [How Powerful are Graph Neural Networks?](https://drive.google.com/open?id=1hAWPOVdEWYU3pmb5DJfFRE3Fkah-Z6Hn). We take notes in a [public GDoc](https://docs.google.com/document/d/1-xEng8w-Zw1sT23Wtxo5etXcEOTsx7q1TYT29nHBkhE/edit), you are very welcome to ask questions or give thoughts in it!
 
 ## Past papers
 
