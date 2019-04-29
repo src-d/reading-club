@@ -22,9 +22,11 @@ clarifying.
 
 
 ## Next sessions
-- __2019.04.19__ at __16:00 CET__: [A Comprehensive Survey on Graph Neural Networks](https://drive.google.com/open?id=1hZ-NM8B-Z4RoiDhoWxOlpj5FVwcRq6tF). We take notes in a [public GDoc](https://docs.google.com/document/d/1p6pA88njm8OMKcKulsv_mihuzVdsuwtrjMcko97IqNw/edit), you are very welcome to ask questions or give thoughts in it!
+- __2019.05.03__ at __16:00 CET__: TBD at [src-d/reading-club#51](https://github.com/src-d/reading-club/issues/51)
 
 ## Past papers
+
+- __2019.04.19__ [A Comprehensive Survey on Graph Neural Networks](https://drive.google.com/open?id=1hZ-NM8B-Z4RoiDhoWxOlpj5FVwcRq6tF). ([notes](https://docs.google.com/document/d/1p6pA88njm8OMKcKulsv_mihuzVdsuwtrjMcko97IqNw/edit))
 
 - __2019.04.05__ [How Powerful are Graph Neural Networks?](https://drive.google.com/open?id=1hAWPOVdEWYU3pmb5DJfFRE3Fkah-Z6Hn). ([notes](https://docs.google.com/document/d/1-xEng8w-Zw1sT23Wtxo5etXcEOTsx7q1TYT29nHBkhE/edit))
 
