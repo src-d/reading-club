@@ -22,10 +22,12 @@ clarifying.
 
 
 ## Next sessions
-- __2019.05.03__ at __16:00 CET__: [Maybe Deep Neural Networks are the Best Choice for Modeling Source Code](https://drive.google.com/file/d/1ZGS9WCme9UJ8TsH5lYrqHrqvPainrO5Q/view?usp=sharing). We take notes in a [public GDoc](https://docs.google.com/document/d/1lqn7yYg5pLzaq35v5nJsJX5BsDYxkX-eWqF2KMFJ5Uw/edit?usp=sharing), you are very welcome to ask questions or give thoughts in it!
+- __2019.05.17__ at __16:00 CET__: [Maybe Deep Neural Networks are the Best Choice for Modeling Source Code](https://drive.google.com/file/d/1ZGS9WCme9UJ8TsH5lYrqHrqvPainrO5Q/view?usp=sharing). We take notes in a [public GDoc](https://docs.google.com/document/d/1lqn7yYg5pLzaq35v5nJsJX5BsDYxkX-eWqF2KMFJ5Uw/edit?usp=sharing), you are very welcome to ask questions or give thoughts in it!
 
 
 ## Past papers
+
+- __2019.05.03__ skipped, due to long holidays (moved to the next slot).
 
 - __2019.04.19__ [A Comprehensive Survey on Graph Neural Networks](https://drive.google.com/open?id=1hZ-NM8B-Z4RoiDhoWxOlpj5FVwcRq6tF). ([notes](https://docs.google.com/document/d/1p6pA88njm8OMKcKulsv_mihuzVdsuwtrjMcko97IqNw/edit))
 
