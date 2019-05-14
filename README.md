@@ -22,7 +22,7 @@ clarifying.
 
 
 ## Next sessions
-- __2019.05.17__ at __16:00 CET__: [Maybe Deep Neural Networks are the Best Choice for Modeling Source Code](https://drive.google.com/file/d/1ZGS9WCme9UJ8TsH5lYrqHrqvPainrO5Q/view?usp=sharing). We take notes in a [public GDoc](https://docs.google.com/document/d/1lqn7yYg5pLzaq35v5nJsJX5BsDYxkX-eWqF2KMFJ5Uw/edit?usp=sharing), you are very welcome to ask questions or give thoughts in it!
+- __2019.05.17__ at __17:00 CET__: [Maybe Deep Neural Networks are the Best Choice for Modeling Source Code](https://drive.google.com/file/d/1ZGS9WCme9UJ8TsH5lYrqHrqvPainrO5Q/view?usp=sharing). We take notes in a [public GDoc](https://docs.google.com/document/d/1lqn7yYg5pLzaq35v5nJsJX5BsDYxkX-eWqF2KMFJ5Uw/edit?usp=sharing), you are very welcome to ask questions or give thoughts in it!
 
 
 ## Past papers
