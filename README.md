@@ -23,7 +23,7 @@ clarifying.
 
 ## Next sessions
 
-- _2019.05.31_ at _16:00 CET_: TBD in [src-d/reading-club#53](https://github.com/src-d/reading-club/issues/53)
+  - __2019.05.31__ at __4PM CEST__: [Neural Networks for Modeling Source Code Edits](https://drive.google.com/open?id=1b2VOAHhCXBVbT75weBDpAIKAPfufUVJb) and [Learning to Represent Edits](https://drive.google.com/open?id=1hUcDD2NzCf2Om39sHiTSiyDgRxwHyh1s). We take notes in a [public GDoc](https://docs.google.com/document/d/1xKzYKY38X-aQh-BFFNXMmb0hD8M9zEqpp10ishV1-Hw/edit), you are very welcome to ask questions or give thoughts in it!
 
 ## Past papers
 
