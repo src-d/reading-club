@@ -23,12 +23,13 @@ clarifying.
 
 ## Next sessions
 
-- __2019.06.14__ at __4PM CET__: [Coloring Big Graphs with AlphaGoZero](https://drive.google.com/file/d/1thJ-NRf47Jo4-z1ThtfbaVFfOrQt3G1i/view?usp=sharing). We take [notes in a public GDoc](https://docs.google.com/document/d/1HjvcyNFCHPlVYCAC21oTMLM1VAfkyozDsoESqB5SOUE/edit?usp=sharing), please ask any questions or post any thoughts in it.
-
-
 - __2019.06.21__ at __4PM CET__: [Cross-language clone detection by learning over abstract syntax trees](https://drive.google.com/open?id=1kMEdi1X3veFZp5XuAsa7rIIlLHcP6lSd). __Daniel Perez, first author of the paper, will join us for the reading club :tada:__ We take notes in a [public GDoc](https://docs.google.com/document/d/14Nnl0AflmWKfqYeF7c-LA9DB63FzK3Z_vL2x080OHrg/edit), you are very welcome to ask questions or give thoughts in it!
 
+- __2019.06.28__ at __4PM CET__: TBD in [this issue](https://github.com/src-d/reading-club/issues/64).
+
 ## Past papers
+
+- __2019.06.14__ [Coloring Big Graphs with AlphaGoZero](https://drive.google.com/file/d/1thJ-NRf47Jo4-z1ThtfbaVFfOrQt3G1i/view). ([notes](https://docs.google.com/document/d/1HjvcyNFCHPlVYCAC21oTMLM1VAfkyozDsoESqB5SOUE/edit))
 
 - __2019.05.31__ [Neural Networks for Modeling Source Code Edits](https://drive.google.com/open?id=1b2VOAHhCXBVbT75weBDpAIKAPfufUVJb) and [Learning to Represent Edits](https://drive.google.com/open?id=1hUcDD2NzCf2Om39sHiTSiyDgRxwHyh1s). ([notes](https://docs.google.com/document/d/1xKzYKY38X-aQh-BFFNXMmb0hD8M9zEqpp10ishV1-Hw/edit))
 
