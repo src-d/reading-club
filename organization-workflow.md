@@ -2,6 +2,10 @@
 
 The general workflow to organize a reading club session is as follows:
 
+## For special sessions
+
+Add an event to the relevant Google Calendar as soon as the date is decided.
+
 ## 2 weeks before
 
 - Create the next paper candidates issue.
