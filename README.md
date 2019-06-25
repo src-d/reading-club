@@ -24,7 +24,8 @@ clarifying.
 ## Next sessions
 
 
-- __2019.06.28__ at __4PM CET__: TBD in [this issue](https://github.com/src-d/reading-club/issues/64).
+- __2019.06.28__ at __4PM CET__: [Import2vec  Learning Embeddings for Software Libraries](https://drive.google.com/file/d/1-5VpkX8xo6x6peeccsxD0AgSxx9i2FYv/view?usp=sharing).  We take notes in a [gDrive](https://docs.google.com/document/d/1RHTdZi492x1RfHWYq7ATsyJVzGwfKlOD3RfJquV90Rc/edit?usp=sharing), you are very welcome to ask questions or just give thoughts in it!
+
 
 ## Past papers
 
