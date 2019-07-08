@@ -23,11 +23,12 @@ clarifying.
 
 ## Next sessions
 
-
-- __2019.06.28__ at __4PM CET__: [Import2vec  Learning Embeddings for Software Libraries](https://drive.google.com/file/d/1-5VpkX8xo6x6peeccsxD0AgSxx9i2FYv/view?usp=sharing).  We take notes in a [gDrive](https://docs.google.com/document/d/1RHTdZi492x1RfHWYq7ATsyJVzGwfKlOD3RfJquV90Rc/edit?usp=sharing), you are very welcome to ask questions or just give thoughts in it!
-
+- __2019.07.12__ at __4PM CET__ TBD at [src-d/reading-club#68](https://github.com/src-d/reading-club/issues/68)
 
 ## Past papers
+
+- __2019.06.28__ [Import2vec  Learning Embeddings for Software Libraries](https://drive.google.com/file/d/1-5VpkX8xo6x6peeccsxD0AgSxx9i2FYv/view?usp=sharing). ([notes](https://docs.google.com/document/d/1RHTdZi492x1RfHWYq7ATsyJVzGwfKlOD3RfJquV90Rc/edit?usp=sharing))
+
 
 - __2019.06.21__ [Cross-language clone detection by learning over abstract syntax trees](https://drive.google.com/open?id=1kMEdi1X3veFZp5XuAsa7rIIlLHcP6lSd). Daniel Perez, co-author of the paper joined us! ([notes](https://docs.google.com/document/d/14Nnl0AflmWKfqYeF7c-LA9DB63FzK3Z_vL2x080OHrg/edit))
 
