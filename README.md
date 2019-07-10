@@ -23,7 +23,7 @@ clarifying.
 
 ## Next sessions
 
-- __2019.07.12__ at __4PM CET__ TBD at [src-d/reading-club#68](https://github.com/src-d/reading-club/issues/68)
+- __2019.07.12__ at __4PM CET__: [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://drive.google.com/file/d/1eX3PlQO3YOeL0Jvrvd4JNmhoDuOoRz5m/view). We take notes in a [public GDoc](https://docs.google.com/document/d/1djU2TvnuKx-lPmFGSye1gkMGtDVDBNW9gDbE811DELk/edit), you are very welcome to ask questions or give thoughts in it!
 
 ## Past papers
 
