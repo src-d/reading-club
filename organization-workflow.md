@@ -14,23 +14,29 @@ Add an event to the [Conferences & Events](https://calendar.google.com/calendar/
 
 - Create the thread for the future session on [source{d} forum](https://forum.sourced.tech/) in the _source{d} Reading Club_ category. The following template can be used:
 
-        [date=YYYY-MM-DD time=16:00:00 timezone="Europe/Madrid"] session topic is being determined in [this GitHub issue](Link to the issue)
+    ```
+    [date=YYYY-MM-DD time=16:00:00 timezone="Europe/Madrid"] session topic is being determined in [this GitHub issue](Link to the issue)
 
-        :clock4: The session lasts for one hour between [date=YYYY-MM-DD time=16:00:00 timezone="Europe/Paris"] and [date=YYYY-MM-DD time=17:00:00 timezone="Europe/Paris"]
+    :clock4: The session lasts for one hour between [date=YYYY-MM-DD time=16:00:00 timezone="Europe/Paris"] and [date=YYYY-MM-DD time=17:00:00 timezone="Europe/Paris"]
 
-        :world_map: The reading club happens [on-line on zoom](https://zoom.us/j/974346848) or in [source{d} office](https://goo.gl/maps/y6aUoBavAGEDWiaNA) in Madrid 
+    :world_map: The reading club happens [on-line on zoom](https://zoom.us/j/974346848) or in [source{d} office](https://goo.gl/maps/y6aUoBavAGEDWiaNA) in Madrid
 
-        :information_source: For more details, see our [repository](https://github.com/src-d/reading-club) on GitHub
+    :information_source: For more details, see our [repository](https://github.com/src-d/reading-club) on GitHub
+    ```
 
 - Archive last session and create the new one.
 
     PR a change to [src-d/reading-club](https://github.com/src-d/reading-club) club to put the previous session in the [Past papers](README.md#past-papers) section with the template
 
-        - __YYYY.MM.DD__ [Title of the paper](url of the paper on GDrive). ([notes](Url of the notes on GDrive))
-    
+    ```
+    - __YYYY.MM.DD__ [Title of the paper](url of the paper on GDrive). ([notes](Url of the notes on GDrive))
+    ```
+
     And create the new session with the template
 
-        - __YYYY.MM.DD__ at __4PM CET__: [TBD](url of the candidates issues)
+    ```
+    - __YYYY.MM.DD__ at __4PM CET__: [TBD](url of the candidates issues)
+    ```
 
 ## 1 week before
 
@@ -38,14 +44,16 @@ Add an event to the [Conferences & Events](https://calendar.google.com/calendar/
 
 - Create and announce the poll in the discourse thread. You can follow this template:
 
-        :ballot_box: It’s voting time! Feel free to vote for the papers that interest you the most :ballot_box:
+    ```
+    :ballot_box: It’s voting time! Feel free to vote for the papers that interest you the most :ballot_box:
 
-        [poll type=multiple results=on_vote min=1 max=4]
-        * [Title 1](Link 1)
-        * [Title 2](Link 2)
-        * [Title 3](Link 3)
-        * [Title 4](Link 4)
-        [/poll]
+    [poll type=multiple results=on_vote min=1 max=4]
+    * [Title 1](Link 1)
+    * [Title 2](Link 2)
+    * [Title 3](Link 3)
+    * [Title 4](Link 4)
+    [/poll]
+    ```
 
 ## 5 days before
 
@@ -61,12 +69,15 @@ Add an event to the [Conferences & Events](https://calendar.google.com/calendar/
 
     We use the following template:
 
-        - __YYYY.MM.DD__ at __4PM CET__: [Title of the paper](url of the pdf on GDrive). We take notes in a [public GDoc](url of the notes on GDrive), you are very welcome to ask questions or give thoughts in it!
+    ```
+    - __YYYY.MM.DD__ at __4PM CET__: [Title of the paper](url of the pdf on GDrive). We take notes in a [public GDoc](url of the notes on GDrive), you are very welcome to ask questions or give thoughts in it!
+    ```
 
 -  Announce it in the discourse thread with a link to the paper, its abstract, and the notes in the original post. In particular, you can use this snippet for the notes:
 
-        :writing_hand: We take notes and prepare the discussion in a [public GDoc](https://docs.google.com/document/d/1djU2TvnuKx-lPmFGSye1gkMGtDVDBNW9gDbE811DELk/edit), you are very welcome to ask questions or share your thoughts in it
-
+    ```
+    :writing_hand: We take notes and prepare the discussion in a [public GDoc](https://docs.google.com/document/d/1djU2TvnuKx-lPmFGSye1gkMGtDVDBNW9gDbE811DELk/edit), you are very welcome to ask questions or share your thoughts in it
+    ```
 
 ## A few hours before
 
