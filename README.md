@@ -23,7 +23,7 @@ clarifying.
 
 ## Next sessions
 
-- __2019.07.12__ at __4PM CET__: TBD in [src-d/reading-club#71](https://github.com/src-d/reading-club/issues/71)
+- __2019.07.26__ at __4PM CET__: TBD in [src-d/reading-club#71](https://github.com/src-d/reading-club/issues/71)
 
 
 ## Past papers
