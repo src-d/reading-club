@@ -34,9 +34,18 @@ Add an event to the [Conferences & Events](https://calendar.google.com/calendar/
 
 ## 1 week before
 
-Announce that the voting period is on in the discourse thread (:+1: and :-1: to vote). You can use the following message:
+- Lock the candidate issue on GitHub
 
-> :ballot_box: It's already voting to decide the paper we'll study! Please visit the [paper candidates issue](Link to the issue) and cast your vote (:+1: and :-1:) :ballot_box:
+- Create and announce the poll in the discourse thread. You can follow this template:
+
+        :ballot_box: It’s voting time! Feel free to vote for the papers that interest you the most :ballot_box:
+
+        [poll type=multiple results=on_vote min=1 max=4]
+        * [Title 1](Link 1)
+        * [Title 2](Link 2)
+        * [Title 3](Link 3)
+        * [Title 4](Link 4)
+        [/poll]
 
 ## 5 days before
 
