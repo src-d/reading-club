@@ -23,7 +23,7 @@ clarifying.
 
 ## Next sessions
 
-- __2019.07.26__ at __4PM CET__: TBD in [src-d/reading-club#71](https://github.com/src-d/reading-club/issues/71)
+- __2019.07.26__ at __4PM CET__: [Aroma: Code Recommendation via Structural Code Search](https://drive.google.com/file/d/1dm5OJFq1j3l-mh4yEzfT163AWiCjosYV/view). We take notes in a [public GDoc](https://docs.google.com/document/d/1hPPajyOWwstWOezko59IWT13k_UDFPDeSUjlnkECwZQ/edit), you are very welcome to ask questions or give thoughts in it!
 
 
 ## Past papers
