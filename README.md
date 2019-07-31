@@ -23,10 +23,12 @@ clarifying.
 
 ## Next sessions
 
-- __2019.07.26__ at __4PM CET__: [Aroma: Code Recommendation via Structural Code Search](https://drive.google.com/file/d/1dm5OJFq1j3l-mh4yEzfT163AWiCjosYV/view). We take notes in a [public GDoc](https://docs.google.com/document/d/1hPPajyOWwstWOezko59IWT13k_UDFPDeSUjlnkECwZQ/edit), you are very welcome to ask questions or give thoughts in it!
+- __2019.08.09__ at __4PM CET__: TBD in [src-d/reading-club#77](https://github.com/src-d/reading-club/issues/77)
 
 
 ## Past papers
+
+- __2019.07.26__ [Aroma: Code Recommendation via Structural Code Search](https://drive.google.com/file/d/1dm5OJFq1j3l-mh4yEzfT163AWiCjosYV/view). ([notes](https://docs.google.com/document/d/1hPPajyOWwstWOezko59IWT13k_UDFPDeSUjlnkECwZQ/edit))
 
 - __2019.07.12__ [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://drive.google.com/file/d/1eX3PlQO3YOeL0Jvrvd4JNmhoDuOoRz5m/view). ([notes](https://docs.google.com/document/d/1djU2TvnuKx-lPmFGSye1gkMGtDVDBNW9gDbE811DELk/edit))
 
