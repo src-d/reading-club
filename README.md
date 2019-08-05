@@ -23,7 +23,7 @@ clarifying.
 
 ## Next sessions
 
-- __2019.08.09__ at __4PM CET__: TBD in [src-d/reading-club#77](https://github.com/src-d/reading-club/issues/77)
+- __2019.08.09__ at __4PM CET__: [Attention Is All You Need](https://drive.google.com/open?id=1ES0lTYFM60kan4P_9bpeZHkPjrlSG4jl). We take notes in a [public GDoc](https://docs.google.com/document/d/1c_sVnUNnZa7jAClRKB1S605cuTUO4I7gTM_EOzBUjB0/edit), you are very welcome to ask questions or give thoughts in it!
 
 
 ## Past papers
