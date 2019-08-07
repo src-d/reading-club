@@ -25,6 +25,8 @@ clarifying.
 
 - __2019.08.09__ at __4PM CET__: [Attention Is All You Need](https://drive.google.com/open?id=1ES0lTYFM60kan4P_9bpeZHkPjrlSG4jl). We take notes in a [public GDoc](https://docs.google.com/document/d/1c_sVnUNnZa7jAClRKB1S605cuTUO4I7gTM_EOzBUjB0/edit), you are very welcome to ask questions or give thoughts in it!
 
+- __2019.09.20__ at __4PM CET__: [End-to-end Deep Learning of Optimization Heuristics](https://drive.google.com/open?id=1GICPdSQdUK1kd4n7_G38k4qqqLZv2GLn). Chris Cummins, first author of the paper, will join us for the discussion :tada: We take notes in a [public GDoc](https://docs.google.com/document/d/1bejKpsc2YomXA1R7Jc1gFD_2qcDyX5HVedmBDPkyjqc/edit), you are very welcome to ask questions or give thoughts in it!
+
 
 ## Past papers
 
