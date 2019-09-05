@@ -27,6 +27,8 @@ clarifying.
 
 - __2019.09.20__ at __4PM CET__: [End-to-end Deep Learning of Optimization Heuristics](https://drive.google.com/open?id=1GICPdSQdUK1kd4n7_G38k4qqqLZv2GLn). Chris Cummins, first author of the paper, will join us for the discussion :tada: We take notes in a [public GDoc](https://docs.google.com/document/d/1bejKpsc2YomXA1R7Jc1gFD_2qcDyX5HVedmBDPkyjqc/edit), you are very welcome to ask questions or give thoughts in it!
 
+- __2019.10.04__ at __4PM CET__: [The Software Heritage Graph Dataset: Public Software Development Under One Roof](https://drive.google.com/open?id=1Oh9o39aZQjM29JVyvMwxg6ANQ4-MIvIB). Antoine Pietri, first author of the paper, will join us for the discussion :tada: We take notes in a [public GDoc](https://docs.google.com/document/d/1rRKsDVoPB2AhD-D4rfmozewV985lUB_BZXPvS2MPn0w/edit?usp=sharing), you are very welcome to ask questions or give thoughts in it!
+
 
 ## Past papers
 
