@@ -28,7 +28,7 @@ clarifying.
 
 ## Past papers
 
-- __2019.09.20__ at __4PM CET__: [End-to-end Deep Learning of Optimization Heuristics](https://drive.google.com/open?id=1GICPdSQdUK1kd4n7_G38k4qqqLZv2GLn). Chris Cummins, author of the paper joined us. ([notes](https://docs.google.com/document/d/1bejKpsc2YomXA1R7Jc1gFD_2qcDyX5HVedmBDPkyjqc/edit))
+- __2019.09.20__ [End-to-end Deep Learning of Optimization Heuristics](https://drive.google.com/open?id=1GICPdSQdUK1kd4n7_G38k4qqqLZv2GLn). Chris Cummins, author of the paper joined us. ([notes](https://docs.google.com/document/d/1bejKpsc2YomXA1R7Jc1gFD_2qcDyX5HVedmBDPkyjqc/edit))
 
 - __2019.09.06__ [Topology Adaptive Graph Convolutional Networks](https://drive.google.com/file/d/13IctkSdeUvfvfdpNPzryzbq4646GFwsM/view). ([notes](https://docs.google.com/document/d/1ZkNr9Ah2DCPZWSTBUYmWaAtTrsywUXdao_VVP5vGo3Y/edit))
 
