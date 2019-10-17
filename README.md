@@ -23,7 +23,7 @@ clarifying.
 
 ## Next sessions
 
-- __2019.10.18__ at __4PM CET__: [TBD](https://github.com/src-d/reading-club/issues/83)
+- __2019.10.18__ at __4PM CET__: [Assessing the Generalizability of code2vec Token Embeddings](https://drive.google.com/file/d/1A7weXLY6WdWfh4y6dHQN6L2omlfBMnDP/view?usp=sharing) We take notes in a [public GDoc](https://docs.google.com/document/d/1jXQVoCSkHtSP4aNZifIr-MAgjosEbd9tuMwmU_5q3DU/edit), you are very welcome to ask questions or give thoughts in it!
 
 ## Past papers
 
