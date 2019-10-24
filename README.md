@@ -23,9 +23,11 @@ clarifying.
 
 ## Next sessions
 
-- __2019.10.18__ at __4PM CET__: [Assessing the Generalizability of code2vec Token Embeddings](https://drive.google.com/file/d/1A7weXLY6WdWfh4y6dHQN6L2omlfBMnDP/view?usp=sharing) We take notes in a [public GDoc](https://docs.google.com/document/d/1jXQVoCSkHtSP4aNZifIr-MAgjosEbd9tuMwmU_5q3DU/edit), you are very welcome to ask questions or give thoughts in it!
+- __2019.10.18__ at __4PM CET__: TBD under [github.com/src-d/reading-club#91](https://github.com/src-d/reading-club/issues/91)
 
 ## Past papers
+
+- __2019.10.18__ [Assessing the Generalizability of code2vec Token Embeddings](https://drive.google.com/file/d/1A7weXLY6WdWfh4y6dHQN6L2omlfBMnDP/view?usp=sharing). ([notes](https://docs.google.com/document/d/1jXQVoCSkHtSP4aNZifIr-MAgjosEbd9tuMwmU_5q3DU/edit))
 
 - __2019.10.04__ [The Software Heritage Graph Dataset: Public Software Development Under One Roof](https://drive.google.com/open?id=1Oh9o39aZQjM29JVyvMwxg6ANQ4-MIvIB). Antoine Pietri, first author of the paper joined us. ([notes](https://docs.google.com/document/d/1rRKsDVoPB2AhD-D4rfmozewV985lUB_BZXPvS2MPn0w/edit?usp=sharing))
 
