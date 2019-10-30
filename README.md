@@ -23,7 +23,7 @@ clarifying.
 
 ## Next sessions
 
-- __2019.10.18__ at __4PM CET__: TBD under [github.com/src-d/reading-club#91](https://github.com/src-d/reading-club/issues/91)
+- __2019.11.15__ at __4PM CET__: [When Deep Learning Met Code Search](https://drive.google.com/file/d/12HDIeEp3XW-Xn8AxhyS5CKzRG7AGgpxt/view). We take notes in a [public GDoc](https://docs.google.com/document/d/1iDgeC3bU8VnhpZ-26ZMMejjODTJToyowbTsBDeTsH48/edit), you are very welcome to ask questions or give thoughts in it!
 
 ## Past papers
 
