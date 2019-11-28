@@ -23,9 +23,11 @@ clarifying.
 
 ## Next sessions
 
-- __2019.11.15__ at __4PM CET__: [When Deep Learning Met Code Search](https://drive.google.com/file/d/12HDIeEp3XW-Xn8AxhyS5CKzRG7AGgpxt/view). We take notes in a [public GDoc](https://docs.google.com/document/d/1iDgeC3bU8VnhpZ-26ZMMejjODTJToyowbTsBDeTsH48/edit), you are very welcome to ask questions or give thoughts in it!
+- __2019.11.29__ at __4PM CET__: [TBD](https://github.com/src-d/reading-club/issues/94)
 
 ## Past papers
+
+- __2019.11.15__ [When Deep Learning Met Code Search](https://drive.google.com/file/d/12HDIeEp3XW-Xn8AxhyS5CKzRG7AGgpxt/view). ([notes](https://docs.google.com/document/d/1iDgeC3bU8VnhpZ-26ZMMejjODTJToyowbTsBDeTsH48/edit))
 
 - __2019.10.18__ [Assessing the Generalizability of code2vec Token Embeddings](https://drive.google.com/file/d/1A7weXLY6WdWfh4y6dHQN6L2omlfBMnDP/view?usp=sharing). ([notes](https://docs.google.com/document/d/1jXQVoCSkHtSP4aNZifIr-MAgjosEbd9tuMwmU_5q3DU/edit))
 
