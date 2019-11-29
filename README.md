@@ -23,7 +23,7 @@ clarifying.
 
 ## Next sessions
 
-- __2019.11.29__ at __4PM CET__: [TBD](https://github.com/src-d/reading-club/issues/94)
+- __2019.11.29__ at __4PM CET__: [CodeSearchNet Challenge: Evaluating the State of Semantic Code Search](https://arxiv.org/abs/1909.09436). We take notes in a [public GDoc](https://docs.google.com/document/d/1hb_nATUjDQYY1MuM6tFe4xMITBsdnV-8b8xRb9tTwDQ/edit), you are very welcome to ask questions or give thoughts in it!
 
 ## Past papers
 
