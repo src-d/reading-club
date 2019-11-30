@@ -23,9 +23,11 @@ clarifying.
 
 ## Next sessions
 
-- __2019.11.29__ at __4PM CET__: [CodeSearchNet Challenge: Evaluating the State of Semantic Code Search](https://arxiv.org/abs/1909.09436). We take notes in a [public GDoc](https://docs.google.com/document/d/1hb_nATUjDQYY1MuM6tFe4xMITBsdnV-8b8xRb9tTwDQ/edit), you are very welcome to ask questions or give thoughts in it!
+- __2019.12.13__ at __4PM CET__: [TBD](https://github.com/src-d/reading-club/issues/98)
 
 ## Past papers
+
+- __2019.11.29__ [CodeSearchNet Challenge: Evaluating the State of Semantic Code Search](https://arxiv.org/abs/1909.09436). ([notes](https://docs.google.com/document/d/1hb_nATUjDQYY1MuM6tFe4xMITBsdnV-8b8xRb9tTwDQ/edit))
 
 - __2019.11.15__ [When Deep Learning Met Code Search](https://drive.google.com/file/d/12HDIeEp3XW-Xn8AxhyS5CKzRG7AGgpxt/view). ([notes](https://docs.google.com/document/d/1iDgeC3bU8VnhpZ-26ZMMejjODTJToyowbTsBDeTsH48/edit))
 
