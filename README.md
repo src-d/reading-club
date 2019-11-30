@@ -25,6 +25,28 @@ clarifying.
 
 - __2019.12.13__ at __4PM CET__: [TBD](https://github.com/src-d/reading-club/issues/98)
 
+## When
+
+Every 2 weeks on Fridays at 4pm CET
+
+
+## Where
+
+- on-line on [zoom](https://zoom.us/), ID of the meeting is `974-346-848`.
+- in source{d} office in Madrid
+
+
+## How to participate
+
+- propose/vote for a paper
+- join the session [online, or in office space](#where)
+
+
+## How to organize
+
+A description of the current organization workflow is maintained in
+[`organization-workflow.md`](organization-workflow.md).
+
 ## Past papers
 
 - __2019.11.29__ [CodeSearchNet Challenge: Evaluating the State of Semantic Code Search](https://arxiv.org/abs/1909.09436). ([notes](https://docs.google.com/document/d/1hb_nATUjDQYY1MuM6tFe4xMITBsdnV-8b8xRb9tTwDQ/edit))
@@ -121,27 +143,5 @@ clarifying.
 
 
 All the past papers we studied are available in the [reading club's GDrive][GDrive].
-
-## When
-
-Every 2 weeks on Fridays at 4pm CET
-
-
-## Where
-
-- on-line on [zoom](https://zoom.us/), ID of the meeting is `974-346-848`.
-- in source{d} office in Madrid
-
-
-## How to participate
-
-- propose/vote for a paper
-- join the session [online, or in office space](#where)
-
-
-## How to organize
-
-A description of the current organization workflow is maintained in
-[`organization-workflow.md`](organization-workflow.md).
 
 [GDrive]: https://drive.google.com/open?id=1Xck6Ic2amaZsRxNWOCc7WvgheIBL-hcF
