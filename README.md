@@ -21,10 +21,6 @@ Anyone can comment on a paper's PDF on [GDrive][GDrive] with questions or things
 clarifying.
 
 
-## Next sessions
-
-- __2019.12.13__ at __4PM CET__: [TBD](https://github.com/src-d/reading-club/issues/98)
-
 ## When
 
 Every 2 weeks on Fridays at 4pm CET
